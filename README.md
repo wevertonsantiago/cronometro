@@ -1,5 +1,5 @@
-# cronometro
-:bulb: Portfolio React Native - Cronometro
+# Cronometro
+:bulb: Portfolio Cronometro
 
 # Objetivo
 
