@@ -12,6 +12,8 @@ Clique na imagem para ampliar.
 <p align='center'>
   <img width='300' height='600' src='ReadmeImages/mob1.png'>
   <img width='300' height='600' src='ReadmeImages/mob2.png'>
+  <img width='300' height='600' src='ReadmeImages/mob3.png'>
+  <img width='300' height='600' src='ReadmeImages/mob4.png'>
 </p>  
 
 Clique no video abaixo para demonstração do aplicativo mobile com React Native:
