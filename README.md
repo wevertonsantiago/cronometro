@@ -18,8 +18,8 @@ Clique na imagem para ampliar.
 
 Clique no video abaixo para demonstração do aplicativo mobile com React Native:
 <p align='center'>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NiA_nGJXeI0
-" target="_blank"><img src="http://img.youtube.com/vi/NiA_nGJXeI0/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9TFZxclFG30
+" target="_blank"><img src="http://img.youtube.com/vi/9TFZxclFG30/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="540" height="380" /></a>
 </p>  
 
@@ -38,8 +38,8 @@ Clique na imagem para ampliar.
 
 Clique no video abaixo para demonstração da aplicação web com React JS:
 <p align='center'>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=e-ZlN0g8694
-" target="_blank"><img src="http://img.youtube.com/vi/e-ZlN0g8694/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eIir-Ld5w7I
+" target="_blank"><img src="http://img.youtube.com/vi/eIir-Ld5w7I/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="640" height="480" /></a>
 </p>  
 
